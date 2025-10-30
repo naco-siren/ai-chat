@@ -34,5 +34,6 @@ plugins:
 include:
   - index.markdown
 exclude:
-  - examples/
+  - "**/*.template"
+  - "**/*.md"
   
