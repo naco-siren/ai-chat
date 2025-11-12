@@ -31,5 +31,4 @@ The app also offers advanced controls for AI developers and researchers. You can
 |:---------------------------------------------:|:-------------------------------------:|
 |                 System prompt                 |               Benchmark               |
 
-
 Whether you are curious about AI, an enthusiast evaluating different models, or a researcher exploring how they behave, AI Chat makes experimentation easy and fun. Developers can also use it to decide which LLM best fits their apps. AI Chat is available now on Google Play. [Download it today and start exploring](https://play.google.com/store/apps/details?id=com.arm.aichat)!
